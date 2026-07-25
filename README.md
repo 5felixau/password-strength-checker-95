@@ -1,2 +1,4 @@
-# password-strength-checker-95
+# Password Strength Checker 95
+
 A command-line script evaluating password strength guidelines.
+
