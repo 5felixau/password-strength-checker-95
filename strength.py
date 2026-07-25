@@ -10,3 +10,6 @@ def check_strength(password):
     
     if score == 4:
         return "Strong"
+    elif score >= 2:
+        return "Moderate"
+    else:
